@@ -8,12 +8,15 @@ Contains my projects for the AI for Trading Nanodegree program offered by Udacit
 ### MATLAB
 MATLAB for Quantitative Finance and Risk Management - where I import data, develop algorithms, and more.
 
-MLSS: I attended the Machine Learning Summer School offered by the Toyota Technological Institute at Chicago (TTI Chicago). This repository includes the class materials used throughout the program. 
+### MLSS 2018
+I attended the Machine Learning Summer School offered by the Toyota Technological Institute at Chicago (TTI Chicago). This repository includes the class materials used throughout the program. 
 
-Machine-Learning-and-Reinforcement-Learning-in-Finance: Contains my projects for the Machine Learning and Reinforcement Learning in Finance Specialization offered by NYU via Coursera. 
+### Machine-Learning-and-Reinforcement-Learning-in-Finance 
+Contains my projects for the Machine Learning and Reinforcement Learning in Finance Specialization offered by NYU via Coursera. 
 
-Quandl:
+### Quandl
 
-Quantopian-Tutorials:
+### Quantopian-Tutorials
+
 
 
