@@ -1,6 +1,6 @@
 # Quantitative Finance & Machine Learning
 
-This repository includes my assignments, independent projects and tutorials pertaining to quantitative finance. I hope to cover topics from derivatives/options pricing, equities, currencies, commodities, fixed income, credit products, risk management, and more.
+This repository includes my assignments, projects and tutorials pertaining to quantitative finance. I hope to cover topics from derivatives/options pricing, equities, currencies, commodities, fixed income, credit products, risk management, and more.
 
 ### Artificial_IntelIigence_for_Trading
 Contains my projects for the AI for Trading Nanodegree program offered by Udacity in partnership with WorldQuant. 
@@ -15,6 +15,7 @@ I attended the Machine Learning Summer School offered by the Toyota Technologica
 Contains my projects for the Machine Learning and Reinforcement Learning in Finance Specialization offered by NYU via Coursera. 
 
 ### Quandl
+Contains my tutorials on the fundamentals of Quandl. Learn the basics with both Python and R.
 
 ### Quantopian-Tutorials
 
