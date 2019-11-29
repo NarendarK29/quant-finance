@@ -1,6 +1,8 @@
+# High Performance Computing for Finance (C++)
+
 # Quantitative Finance & Machine Learning
 
-This repository includes my assignments, projects and tutorials pertaining to quantitative finance. I hope to cover topics from derivatives/options pricing, equities, currencies, commodities, fixed income, credit products, risk management, and more.
+Includes my assignments, projects and tutorials pertaining to quantitative finance. I hope to cover topics from derivatives/options pricing, equities, currencies, commodities, fixed income, credit products, risk management, and more.
 
 ### Artificial_IntelIigence_for_Trading
 Contains my projects for the AI for Trading Nanodegree program offered by Udacity in partnership with WorldQuant. 
